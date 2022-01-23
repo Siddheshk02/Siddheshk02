@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Siddhesh,
+### Hey there 👋 I'm Siddhesh,
 
 - 🌱 I’m currently learning Backend Development
 - 🏢 I'm having Elementary knowledge of Frontend Development
