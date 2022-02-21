@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Backend Development
 - 🏢 I'm having Elementary knowledge of Frontend Development
-- 💻 I love Problem Solving, 3🌟:(1684) on [Codechef](https://www.codechef.com/users/siddheshk)
+- 💻 I love Problem Solving, 3🌟:(1684) on Codechef
 - 👯 Learning and growing every day
 
    
