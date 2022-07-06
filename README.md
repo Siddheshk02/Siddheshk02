@@ -1,4 +1,5 @@
 ### Hey there 👋 I'm Siddhesh,
+
 <div id="badges">
   <a href="https://www.linkedin.com/in/siddhesh-khandagale-3835581bb">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -7,7 +8,9 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=Siddheshk02&style=flat-square&color=blue" alt=""/>
+
+### About me :
+
 - 🌱 I’m currently learning Backend Development
 - 🏢 I'm having Elementary knowledge of Frontend Development
 - 💻 I love Problem Solving, 3🌟:(1684) on Codechef
@@ -27,6 +30,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
   
 </div>
+   
    
 [![Siddhesh's github stats](https://github-readme-stats.vercel.app/api?username=Siddheshk02&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/Siddheshk02/github-readme-stats)
 
