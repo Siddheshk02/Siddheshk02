@@ -8,6 +8,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+<hr>
 
 ### About me :
 
@@ -15,6 +16,8 @@
 - 🏢 I'm having Elementary knowledge of Frontend Development
 - 💻 I love Problem Solving, 3🌟:(1684) on Codechef
 - 👯 Learning and growing every day
+
+<hr>
 
 ### :hammer_and_wrench: Languages and Tools :
    <div>
@@ -30,9 +33,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
   
 </div>
-   
-   
+
+<hr>
+
 [![Siddhesh's github stats](https://github-readme-stats.vercel.app/api?username=Siddheshk02&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/Siddheshk02/github-readme-stats)
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddheshk02&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<hr>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddheshk02&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
