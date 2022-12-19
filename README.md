@@ -37,6 +37,11 @@
 
 <hr>
 
+### My Recent Blog posts 💻: 
+- 🌱 [Getting Started with CLI's in Golang](https://siddhesh-dev.co/getting-started-with-clis-using-golang)
+- 🚀 [Welcome to Fiber — an Express.js styled web framework written in Go🎉](https://siddhesh-dev.co/go-fiber-tutorial-1)
+
+<hr>
 
 [![Siddhesh's github stats](https://github-readme-stats.vercel.app/api?username=Siddheshk02&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/Siddheshk02/github-readme-stats)
 <hr>
