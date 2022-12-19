@@ -7,6 +7,12 @@
   <a href="https://twitter.com/siddhesh1102">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <a href="https://hashnode.com/@Siddheshk">
+    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode Badge"/>
+  </a>
+  <a href="https://linktr.ee/Siddhesh02">
+    <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Lintree Badge"/>
+  </a>
 </div>
 <hr>
 
