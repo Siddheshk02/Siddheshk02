@@ -18,7 +18,7 @@
 
 ### About me :
 
-- 🌱 I’m currently learning Backend Development
+- 🌱 Backend Development
 - 🏢 I'm having Elementary knowledge of Frontend Development
 - 💻 I love Problem Solving, 3🌟:(1684) on Codechef
 - 👯 Learning and growing every day
