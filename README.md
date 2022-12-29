@@ -47,6 +47,7 @@
 - 🌱 [Getting Started with CLI's in Golang](https://siddhesh-dev.co/getting-started-with-clis-using-golang)
 - 🚀 [Welcome to Fiber — an Express.js styled web framework written in Go🎉](https://siddhesh-dev.co/go-fiber-tutorial-1)
 - ✨ [Building REST-API in Golang using Fiber, PostgreSQL and GORM🎉](https://siddhesh-dev.co/building-crud-operations-in-golang)
+- 💯 [JWT Authentication in Golang REST-APIs](https://siddhesh-dev.co/jwt-authentication-in-go)
 
 <hr>
 
