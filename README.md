@@ -10,6 +10,9 @@
   <a href="https://hashnode.com/@Siddheshk">
     <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode Badge"/>
   </a>
+  <a href="https://dev.to/siddheshk02">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEV.TO Badge"/>
+  </a>
   <a href="https://linktr.ee/Siddhesh02">
     <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Lintree Badge"/>
   </a>
