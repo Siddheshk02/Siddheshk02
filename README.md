@@ -21,7 +21,7 @@
 
 ### About me :
 
-- 🌱 Backend Development
+- 🌱 Backend Dev, I write Technical Blogs.
 - 🏢 I'm having Elementary knowledge of Frontend Development
 - 💻 I love Problem Solving, 3🌟:(1684) on Codechef
 - 👯 Learning and growing every day
