@@ -52,6 +52,7 @@
 - ✨ [Building REST-API in Golang using Fiber, PostgreSQL and GORM🎉](https://siddhesh-dev.co/building-crud-operations-in-golang)
 - 💯 [JWT Authentication in Golang WEB-APIs](https://siddhesh-dev.co/jwt-authentication-in-go)
 - 🐱‍🏍 [OAuth2 Implementation in Golang](https://siddhesh-dev.co/oauth-2-implementation-in-golang)
+- 🛠  [Web Scraping in Golang using Fiber and Colly Framework](https://siddhesh-dev.co/web-scraping-in-golang)
 
 <hr>
 
