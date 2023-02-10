@@ -13,6 +13,10 @@
   <a href="https://dev.to/siddheshk02">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEV.TO Badge"/>
   </a>
+  
+  <a href="https://medium.com/@khandagalesid02">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
+  </a>
   <a href="https://linktr.ee/Siddhesh02">
     <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Lintree Badge"/>
   </a>
