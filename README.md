@@ -48,13 +48,13 @@
 <hr>
 
 ### My Recent Blog posts 💻: 
-- 🌱 [Getting Started with CLI's in Golang](https://siddhesh-dev.co/getting-started-with-clis-using-golang)
-- 🚀 [Welcome to Fiber — an Express.js styled web framework written in Go🎉](https://siddhesh-dev.co/go-fiber-tutorial-1)
-- ✨ [Building REST-API in Golang using Fiber, PostgreSQL and GORM🎉](https://siddhesh-dev.co/building-crud-operations-in-golang)
-- 💯 [JWT Authentication in Golang WEB-APIs](https://siddhesh-dev.co/jwt-authentication-in-go)
-- 🔐 [OAuth2 Implementation in Golang](https://siddhesh-dev.co/oauth-2-implementation-in-golang)
-- 🛠  [Web Scraping in Golang using Fiber and Colly Framework](https://siddhesh-dev.co/web-scraping-in-golang)
-- 💻 [Dockerizing Golang CLI app - a step-by-step Guide](https://siddhesh-dev.co/dockerizing-golang-cli-tool-a-step-by-step-guide)
+- 🌱 [Getting Started with CLI's in Golang](https://siddheshk.hashnode.dev/getting-started-with-clis-using-golang)
+- 🚀 [Welcome to Fiber — an Express.js styled web framework written in Go🎉](https://siddheshk.hashnode.dev/go-fiber-tutorial-1)
+- ✨ [Building REST-API in Golang using Fiber, PostgreSQL and GORM🎉](https://siddheshk.hashnode.dev/building-crud-operations-in-golang)
+- 💯 [JWT Authentication in Golang WEB-APIs](https://siddheshk.hashnode.dev/jwt-authentication-in-go)
+- 🔐 [OAuth2 Implementation in Golang](https://siddheshk.hashnode.dev/oauth-2-implementation-in-golang)
+- 🛠  [Web Scraping in Golang using Fiber and Colly Framework](https://siddheshk.hashnode.dev/web-scraping-in-golang)
+- 💻 [Dockerizing Golang CLI app - a step-by-step Guide](https://siddheshk.hashnode.dev/dockerizing-golang-cli-tool-a-step-by-step-guide)
 
 <hr>
 
