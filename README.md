@@ -22,8 +22,8 @@
 
 ### About me :
 
-- 🌱 Backend Dev, I write Technical Blogs.
-- 🏢 I'm having Elementary knowledge of Frontend Development
+- 👨‍💻 Backend Dev.
+- 🛠  I write Technical Blogs.
 - 💻 I love Problem Solving
 - 👯 Learning and growing every day
 
