@@ -30,12 +30,12 @@
 <hr>
 
 ### My Recent Blog posts 💻: 
--  [JWT Authentication in Golang WEB-APIs](https://siddheshk.hashnode.dev/jwt-authentication-in-go)
--  [OAuth2 Implementation in Golang](https://siddheshk.hashnode.dev/oauth-2-implementation-in-golang)
+-  [JWT Authentication in Golang WEB-APIs](https://medium.com/@khandagalesid02/jwt-authentication-in-go-0c013ebe1d43)
+-  [OAuth2 Implementation in Golang](https://medium.com/@khandagalesid02/oauth-2-0-implementation-in-golang-e94cd0c171a7)
 -  [Web Scraping in Golang using Fiber and Colly Framework](https://siddheshk.hashnode.dev/web-scraping-in-golang)
 -  [Dockerizing Golang CLI app - a step-by-step Guide](https://siddheshk.hashnode.dev/dockerizing-golang-cli-tool-a-step-by-step-guide)
 
-[more](https://dev.to/siddheshk02)
+[more](https://medium.com/@khandagalesid02)
 
 <hr>
 
